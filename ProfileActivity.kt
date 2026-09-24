@@ -13,6 +13,6 @@ class ProfileActivity {
     }
 
     fun onDestroy() {
-        println("ProfileActivity destroyed")
+        println("ProfileActivity destroyed_test")
     }
 }
